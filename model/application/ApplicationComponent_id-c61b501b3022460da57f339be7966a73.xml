@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CallCenter"
-    id="id-c61b501b3022460da57f339be7966a73">
-  <properties
-      key="prop1"
-      value="HWO"/>
-</archimate:ApplicationComponent>

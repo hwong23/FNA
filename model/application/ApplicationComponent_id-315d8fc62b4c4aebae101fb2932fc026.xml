@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Atencion al Cliente"
-    id="id-315d8fc62b4c4aebae101fb2932fc026">
-  <properties
-      key="prop1"
-      value="JWO"/>
-</archimate:ApplicationComponent>
