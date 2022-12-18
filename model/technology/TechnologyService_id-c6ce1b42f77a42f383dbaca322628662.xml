@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicios de Infraestructura"
+    id="id-c6ce1b42f77a42f383dbaca322628662">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:TechnologyService>

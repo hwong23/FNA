@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desembolso"
+    id="id-5c89726a740f49ab8d6702ab633ad2d8">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:BusinessProcess>

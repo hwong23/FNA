@@ -1,0 +1,14 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-09103c0e40dc427dae83797fdf3d8f8a">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2e2d464e2b124309946c4d4053d03a11.xml#id-2e2d464e2b124309946c4d4053d03a11"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5c89726a740f49ab8d6702ab633ad2d8.xml#id-5c89726a740f49ab8d6702ab633ad2d8"/>
+</archimate:TriggeringRelationship>

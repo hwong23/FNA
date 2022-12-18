@@ -1,0 +1,14 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-46c30199be734901a8c5922c0a1f3381">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f3d3de5150904b05be203ca4ba513305.xml#id-f3d3de5150904b05be203ca4ba513305"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95e2a627218446cf8aa73e26c08d9a97.xml#id-95e2a627218446cf8aa73e26c08d9a97"/>
+</archimate:TriggeringRelationship>

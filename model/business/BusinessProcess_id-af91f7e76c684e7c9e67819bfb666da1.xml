@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administración de Cuentas  y Pago"
+    id="id-af91f7e76c684e7c9e67819bfb666da1">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:BusinessProcess>

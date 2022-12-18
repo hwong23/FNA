@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturación y Cartera"
+    id="id-dcbabc29a2fc4125bc375236caf31ae7">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:BusinessProcess>

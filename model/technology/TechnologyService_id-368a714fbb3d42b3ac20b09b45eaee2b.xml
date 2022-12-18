@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicios Score"
+    id="id-368a714fbb3d42b3ac20b09b45eaee2b">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:TechnologyService>
